@@ -2,6 +2,11 @@
 
 A React Native voice assistant app powered by Shapes API and ElevenLabs TTS.
 
+
+
+https://github.com/user-attachments/assets/5ab1b720-0cbb-4525-b4fd-d2e8d4327df1
+
+
 ## Features
 
 - 🎤 One-tap voice recording with auto-silence detection
