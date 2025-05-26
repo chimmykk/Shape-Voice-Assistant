@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "my-new-project",
+    "name": "Shapes Voice Assistant Demo",
     "slug": "my-new-project",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,6 +24,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router",
+      "expo-audio",
+      "expo-video"
+    ]
   }
 }
